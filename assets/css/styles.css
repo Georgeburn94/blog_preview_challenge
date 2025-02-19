@@ -97,3 +97,9 @@
     height: 2.2rem;
     margin-right: 0.8rem;
 }
+
+/* Hover States */
+.text-1:hover {
+    color: var(--yellow);
+    cursor:pointer;
+}
